@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\bin\Release\net7.0\Strategy_v1.exe
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\bin\Release\net7.0\Strategy_v1.deps.json
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\bin\Release\net7.0\Strategy_v1.runtimeconfig.json
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\bin\Release\net7.0\Strategy_v1.dll
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\bin\Release\net7.0\Strategy_v1.pdb
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\Strategy_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\Strategy_v1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\Strategy_v1.AssemblyInfo.cs
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\Strategy_v1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\Strategy_v1.dll
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\refint\Strategy_v1.dll
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\Strategy_v1.pdb
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\Strategy_v1.genruntimeconfig.cache
+C:\Users\User\Desktop\Files\University\WSB\S5\PZ\Laboratorium\3-Architektura_klient_serwer\Strategy_v1\obj\Release\net7.0\ref\Strategy_v1.dll
