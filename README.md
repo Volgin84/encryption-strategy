@@ -10,7 +10,9 @@ This project is a simple console application demonstrating the use of the Strate
 
 ## How to Run
 
-Explain how to compile and run the application.
+Easiest way to run is straight throught the VS IDE.
+Alternatively should you wish to compile and run code with the windows terminal
+ensure that .NET SDK is installed on your system. 
 
 ## Usage
 
