@@ -55,7 +55,7 @@ namespace Strategy
         }
     }
 
-    public class NoEncryption : IEncryptionStrategy // Fourht concrete strategy
+    public class NoEncryption : IEncryptionStrategy // Fourth concrete strategy
     {
         public string Encrypt(string text)
         {
